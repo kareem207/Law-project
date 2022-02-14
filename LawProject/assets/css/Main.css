@@ -1,0 +1,10 @@
+a.Kstyle{
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+
+
+}
+
+a.Kstyle:hover{
+  box-shadow: 7px 5px 5px #2f5d62;
+}
